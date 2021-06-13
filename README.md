@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @joshis1
 - 👀 I’m interested in C, C++, linux, javascript and python.
-- 🌱 I’m currently learning docker, AWS
-- 💞️ I’m looking to collaborate on networking projects.
+- 🌱 I’m currently learning AWS
 - 📫 How to reach me - 
 
 <!---
