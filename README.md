@@ -28,4 +28,4 @@ Cloud architecture · Enterprise platforms · APIs and integrations · Automatio
 
 ## Certifications
 
-RHCSA · PMI-ACP · PSM I  · CCNA
+AWS. RHCSA · PMI-ACP · PSM I  · CCNA
